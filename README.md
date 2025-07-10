@@ -49,9 +49,10 @@ This script automates the installation and configuration of a modern development
 
 ## 🚀 Quick Start
 
-1. **Download and run the script:**
+1. **Clone the repository and run the script:**
    ```bash
-   wget https://raw.githubusercontent.com/your-username/dev-environment-setup/main/setup_dev_environment.sh
+   git clone https://github.com/maxrenke/dev-environment-setup.git
+   cd dev-environment-setup
    chmod +x setup_dev_environment.sh
    ./setup_dev_environment.sh
    ```
